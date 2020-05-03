@@ -5,6 +5,8 @@
 
 All source code © 2019 Paul Durham, School of Computer Science, Carleton University.
 
+### Main programs:
+
 ESDPrun.m
 Main program for cooperative localization simulations.
 
@@ -14,7 +16,10 @@ Main program for original PI simulations.
 pong.m
 Main program for augmented PI simulations.
 
-Utilities:
+To run one of the above, first double click on test5-100.mat to initializae node coordinates.
+
+
+#### Utilities:
 
 circlereduce.m
 GetIntersect.m
