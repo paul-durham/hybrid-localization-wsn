@@ -16,7 +16,7 @@ Main program for original PI simulations.
 pong.m
 Main program for augmented PI simulations.
 
-To run one of the above, first double click on test5-100.mat to initializae node coordinates.
+To run one of the above, first double click on test5-100.mat to initialize node coordinates.
 
 
 ### Utilities:
