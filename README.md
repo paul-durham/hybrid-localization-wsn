@@ -1,7 +1,7 @@
-## Hybrid Localization for UAV-based Charging of Wireless Sensor Networks
+# Hybrid Localization for UAV-based Charging of Wireless Sensor Networks
 
 
-# Matlab directory
+## Matlab directory
 
 All source code © 2019 Paul Durham, School of Computer Science, Carleton University.
 
@@ -30,7 +30,7 @@ TOCscan.m
 UAVmove.m
 
 
-# matlabJava directory
+## matlabJava directory
 
 All source code © 2019 Paul Durham, School of Computer Science, Carleton University
 
@@ -38,7 +38,7 @@ WSNode.java
 WSNode.class
 
 
-#COL - Matlab Modules from Computational Optimization Laboratory
+## COL - Matlab Modules from Computational Optimization Laboratory
 
 All files available from:
 
