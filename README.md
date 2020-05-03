@@ -19,7 +19,7 @@ Main program for augmented PI simulations.
 To run one of the above, first double click on test5-100.mat to initializae node coordinates.
 
 
-#### Utilities:
+### Utilities:
 
 circlereduce.m
 GetIntersect.m
